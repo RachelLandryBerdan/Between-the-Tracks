@@ -2,7 +2,7 @@
 title:Between the Tracks Consulting & Coaching Inc.
 email:rachel@betweenthetracks.co
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "https://rachellandryberdan.github.io/Between-the-Tracks/" # the subpath of your site, e.g. /blog/
+baseurl: "/Between-the-Tracks/" # the subpath of your site, e.g. /blog/
 url: "https://rachellandryberdan.github.io/Between-the-Tracks/" # the base hostname & protocol for your site
 
 twitter_username:
