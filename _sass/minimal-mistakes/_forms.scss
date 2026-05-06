@@ -58,7 +58,7 @@ textarea {
 label {
   display: block;
   margin-bottom: 0.25em;
-  color: $text-color;
+  color: $muted-text-color;
   cursor: pointer;
 
   small {
@@ -79,7 +79,7 @@ select {
   width: 100%;
   padding: 0.25em;
   margin-bottom: 0.5em;
-  color: $text-color;
+  color: $muted-text-color;
   background-color: $background-color;
   border: $border-color;
   border-radius: $border-radius;

@@ -3,15 +3,17 @@
    ========================================================================== */
 
 /* Colors */
-$text-color: #000 !default;
-$muted-text-color: $text-color !default;
-$primary-color: #b60000 !default;
-$border-color: mix(#fff, $text-color, 75%) !default;
-$footer-background-color: #000 !default;
-$link-color: #0000ff !default;
-$masthead-link-color: $text-color !default;
-$masthead-link-color-hover: $text-color !default;
-$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+$text-color: #FFFCF8 !default;
+$background-color: #022D21 !default;
+$muted-text-color: mix($text-color,$text-color, 75%) !default;
+$primary-color: #FCAC61 !default;
+$border-color: #FFFCF8 !default;
+$footer-background-color: #022D21 !default;
+$link-color: #FCAC61 !default;
+$masthead-link-color: #FFFCF8 !default;
+$masthead-link-color-hover: $masthead-link-color !default;
+$navicon-link-color-hover: #FCAC61 !default;
+$masthead-background-color: #022D21 !default;
 
 /* contrast syntax highlighting (base16) */
 $base00: #000000 !default;
@@ -43,7 +45,7 @@ $base0f: #b18a3d !default;
 }
 
 .page__footer {
-  color: #fff !important; // override
+  color: #FFFCF8 !important; // override
 }
 
 .page__footer-follow .social-icons i,
