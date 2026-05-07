@@ -52,8 +52,8 @@ $monospace-code: ui-monospace, 'Cascadia Code', 'Source Code Pro', Menlo, Consol
 $handwritten: 'Segoe Print', 'Bradley Hand', Chilanka, TSCu_Comic, casual, cursive;
 
 /* Defaults used in Minimal mistakes */
-$default-sans-serif: "Noto Sans", sans-serif;
-$default-serif: "Roboto Slab", serif;
+$default-sans-serif: "Myriad Pro", sans-serif;
+$default-serif: "Cardo", serif;
 $default-monospace: Monaco, Consolas, "Lucida Console", monospace;
 
 /* Emoji native from modern font stack - add to the end of the font-face for native emojis */
@@ -65,9 +65,9 @@ $sans-serif: $default-sans-serif !default;
 $sans-serif-narrow: $sans-serif !default;
 $monospace: $default-monospace !default;
 
-$global-font-family: $sans-serif !default;
-$header-font-family: $serif !default;
-$caption-font-family: $serif !default;
+$global-font-family: $serif !default;
+$header-font-family: $sans-serif !default;
+$caption-font-family: $sans-serif !default;
 
 /* type scale */
 $type-size-1: 2.441em !default; // ~39.056px
@@ -91,11 +91,11 @@ $h-size-6: 1em !default; // ~16px
    Colors
    ========================================================================== */
 
-$gray: #7a8288 !default;
-$dark-gray: mix(#000, $gray, 50%) !default;
-$darker-gray: mix(#000, $gray, 60%) !default;
-$light-gray: mix(#fff, $gray, 50%) !default;
-$lighter-gray: mix(#fff, $gray, 90%) !default;
+$gray: #585757 !default;
+$dark-gray: mix(#110F0F, $gray, 50%) !default;
+$darker-gray: mix(#110F0F, $gray, 60%) !default;
+$light-gray: mix(#FFFCF8, $gray, 50%) !default;
+$lighter-gray: mix(#FFFCF8, $gray, 90%) !default;
 
 $background-color: #FFFCF8 !default;
 $code-background-color: #fafafa !default;
@@ -108,12 +108,12 @@ $footer-background-color: #022D21 !default;
 $masthead-background-color: #022D21 !default;
 
 $primary-color: #FCAC61 !default;
-$success-color: #3fa63f !default;
-$warning-color: #d67f05 !default;
-$danger-color: #ee5f5b !default;
-$info-color: #FCAC61 !default;
+$success-color: #022D21 !default;
+$warning-color: #FCAC61 !default;
+$danger-color: #621c30 !default;
+$info-color: #FFFCF8 !default;
 $focus-color: $primary-color !default;
-$active-color: mix(#fff, $primary-color, 80%) !default;
+$active-color: mix(#FFFCF8, $primary-color, 80%) !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
