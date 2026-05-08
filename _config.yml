@@ -48,17 +48,18 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
-    repo_id              : # Shown during giscus setup at https://giscus.app
-    category_name        : # Full text name of the category
-    category_id          : # Shown during giscus setup at https://giscus.app
-    discussion_term      : # "pathname" (default), "url", "title", "og:title"
-    reactions_enabled    : # '1' for enabled (default), '0' for disabled
-    theme                : # "light" (default), "dark", "dark_dimmed", "transparent_dark", "preferred_color_scheme"
-    strict               : # 1 for enabled, 0 for disabled (default)
-    input_position       : # "top", "bottom" # The comment input box will be placed above or below the comments
-    emit_metadata        : # 1 for enabled, 0 for disabled (default) # https://github.com/giscus/giscus/blob/main/ADVANCED-USAGE.md#imetadatamessage
-    lang                 : # "en" (default)
-    lazy                 : # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
+    repo                 : "RachelLandryBerdan/btt-minimal-mistakes"
+    repo-id              : "R_kgDOR2JGgA"
+    category_name        : "Announcements"
+    category_id          : "DIC_kwDOR2JGgM4C8lkO"
+    discussion_term      : "pathname"
+    strict               : "0"
+    reactions_enabled    : '1'
+    emit_metadata        : "0"
+    input_position       : "bottom"
+    theme                : "preferred_color_scheme"
+    lang                 : "en-ca"
+    lazy                 : true
   staticman:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
@@ -117,8 +118,8 @@ author:
   name             : "Rachel Landry Berdan"
   avatar           : "/assets/images/Rachel Bio Headshot.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Founder & Transformation Coach"
-  location         : # "Somewhere"
-  email            : 
+  location         : "London, ON"
+  email            : # "rachel@betweenthetracks.co"
   # fediverse      : "@you@instance.social"  # used for fediverse:creator meta tag
   links:
     - label: "Email"
@@ -328,6 +329,8 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
+      date_format: "%Y-%b-%d"
       read_time: true
       comments: # true
       share: true
