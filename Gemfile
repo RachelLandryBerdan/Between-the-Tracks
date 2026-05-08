@@ -27,4 +27,6 @@ gem 'faraday-retry'
 
 # Cf. https://jekyllrb.com/docs/plugins/installation/
 group :jekyll_plugins do
+gem "jekyll-archives"
+
 end
