@@ -44,11 +44,13 @@
 }
 
 .archive__item-title {
-  margin-bottom: 0.25em;
+  margin-bottom: 0;
   font-family: $header-font-family;
   line-height: initial;
   overflow: hidden;
-  text-overflow: ellipsis;
+  text-overflow: ellipsis;    
+  text-align: center;
+
 
   a[rel="permalink"]::before {
     content: '';
@@ -72,6 +74,7 @@
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
+  text-align: center;
 
   & + p {
     text-indent: 0;
