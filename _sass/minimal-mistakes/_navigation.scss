@@ -78,8 +78,8 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-      color: $muted-text-color;
-      border: 1px solid mix(#000, $border-color, 25%);
+      color: $dark-gray;
+      border: 1px solid $border-color;
       border-radius: 0;
 
       &:hover {
@@ -88,7 +88,7 @@
 
       &.current,
       &.current.disabled {
-        color: #fff;
+        color: $dark-gray;
         background: $primary-color;
       }
 
@@ -127,8 +127,8 @@
     font-weight: bold;
     text-align: center;
     text-decoration: none;
-    color: $muted-text-color;
-    border: 1px solid mix(#000, $border-color, 25%);
+    color: $success-color;
+    border: 1px solid $border-color;
     border-radius: $border-radius;
 
     &:hover {

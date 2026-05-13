@@ -2,14 +2,15 @@
 title: "Breathe...You're Not Breathing!"
 excerpt: "A reflection on a classic quote from my boss at the time, Christine Patten, that reminds me to get grounded back in my body so I can take stock of the present moment."
 header:
-  image: /assets/images/georgia-de-lotz-HoD2lHLYhaw-unsplash.jpg
-  teaser: /assets/images/georgia-de-lotz-HoD2lHLYhaw-unsplash-th.png
+  image: /assets/images/blog/2008-10-09_georgia-de-lotz-HoD2lHLYhaw-unsplash.jpg
+  teaser: /assets/images/blog/2008-10-09_georgia-de-lotz-HoD2lHLYhaw-unsplash-th.png
   image caption: "[Photo by Georgia de Lotz from Unsplash](https://unsplash.com/photos/happy-birthday-with-white-and-yellow-flowers-HoD2lHLYhaw)"
 categories:
-  - Self Leadership
+  - mindful leadership
 tags:
   - breathwork
   - grounding
+page_comments: true
 ---
 If I had a nickel for every time my former boss, [Christine Patten](https://www.linkedin.com/in/christinepatten/), uttered that sentence to me, well, I probably wouldn’t need to work. In my world, stress is simply a way of life. Under stress, that most essential of activities—breathing—ends up on that ever growing list of forgotten to-do’s. The body does that breathing thing naturally for the sake of survival, so we often take it for granted. In day-to-day life, we often don’t take the time to be conscious about our breathing; so when stress hits, and the physiology gets thrown out of whack (that’s technical terminology), it can take someone else to remind us to breathe. Or at least that’s true for me. 
 
