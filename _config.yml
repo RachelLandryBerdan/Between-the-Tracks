@@ -24,7 +24,7 @@ name                     : "Rachel Landry Berdan"
 description              : "Strategic consultancy focused on developing individual, team, organizational, and collective capacity for people-powered change."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "RachelLandryBerdan/btt-minimal-mistakes" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "RachelLandryBerdan/Between-the-Tracks" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/Train.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "assets/images/Masthead Logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
@@ -48,7 +48,7 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   giscus:
-    repo                 : "RachelLandryBerdan/btt-minimal-mistakes"
+    repo                 : "RachelLandryBerdan/Between-the-Tracks"
     repo-id              : "R_kgDOR2JGgA"
     category_name        : "Announcements"
     category_id          : "DIC_kwDOR2JGgM4C8lkO"
