@@ -25,6 +25,4 @@ What that commitment looks like year to year may vary, but there are a few consi
 
 If you’re a business owner considering what community relationship and responsibility look like for you, I encourage you to consider what a similar commitment could look like. 
 
-**Have some criteria of your own or an organization/initiative you’d encourage others to support? Share in the comments.**
-
-*Organizations I have supported through this commitment: SafeSpace (disclosure: I’m on the board), Yotuni Social Enterprise, [Nii’kinaaganaa Foundation](https://payyourrent.ca/about/). Other businesses that have inspired my commitment: QuakeLab’s “[Indigenous reparations charge](https://quakelab.ca/land-back)” and [Evenings & Weekends Consulting’s commitment](https://www.eveningsandweekendsconsulting.com/about) of 1% of revenue to T[he Circle on Philanthropy](https://the-circle.ca/).*
+*Organizations I have supported through this commitment: SafeSpace (disclosure: I’m on the board), Yotuni Social Enterprise, [Nii’kinaaganaa Foundation](https://payyourrent.ca/about/). Other businesses that have inspired my commitment: QuakeLab’s “[Indigenous reparations charge](https://quakelab.ca/land-back)” and [Evenings & Weekends Consulting’s commitment](https://www.eveningsandweekendsconsulting.com/about) of 1% of revenue to [The Circle on Philanthropy](https://the-circle.ca/).*

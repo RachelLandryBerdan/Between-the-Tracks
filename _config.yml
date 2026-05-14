@@ -34,7 +34,7 @@ enable_copy_code_button  : # true, false (default)
 copyright                : # "copyright" name, defaults to site.title
 copyright_url            : # "copyright" URL, defaults to site.url
 comments:
-  provider               : "giscus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -337,7 +337,7 @@ defaults:
       show_date: true
       date_format: "%Y-%b-%d"
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
 
