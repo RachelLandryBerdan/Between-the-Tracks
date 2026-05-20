@@ -93,7 +93,7 @@
       }
 
       &.disabled {
-        color: rgba($muted-text-color, 0.5);
+        color: rgba($info-color, 0.5);
         pointer-events: none;
         cursor: not-allowed;
       }
@@ -132,7 +132,7 @@
     border-radius: $border-radius;
 
     &:hover {
-      @include yiq-contrasted($muted-text-color);
+      @include yiq-contrasted($primary-color);
     }
 
     &:first-child {
@@ -147,7 +147,7 @@
     }
 
     &.disabled {
-      color: rgba($muted-text-color, 0.5);
+      color: rgba($info-color, 0.5);
       pointer-events: none;
       cursor: not-allowed;
     }

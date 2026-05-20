@@ -91,29 +91,29 @@ $h-size-6: 1em !default; // ~16px
    Colors
    ========================================================================== */
 
-$gray: #585757 !default;
-$dark-gray: mix(#110F0F, $gray, 50%) !default;
-$darker-gray: mix(#110F0F, $gray, 60%) !default;
-$light-gray: mix(#FFFCF8, $gray, 50%) !default;
-$lighter-gray: mix(#FFFCF8, $gray, 90%) !default;
+$gray: #6B371C !default;
+$dark-gray: mix(#191516, $gray, 50%) !default;
+$darker-gray: mix(#191516, $gray, 60%) !default;
+$light-gray: mix(#F4F1ED, $gray, 50%) !default;
+$lighter-gray: mix(#F4F1ED, $gray, 90%) !default;
 
-$background-color: #FFFCF8 !default;
+$background-color: #FAE4DC !default;
 $code-background-color: #fafafa !default;
 $code-background-color-dark: $light-gray !default;
-$text-color: #110F0F !default;
-$muted-text-color: #FFFCF8 !default;
-$border-color: #FAE4DC !default;
-$form-background-color: #022D21 !default;
-$footer-background-color: #022D21 !default;
-$masthead-background-color: #022D21 !default;
+$text-color: #191516 !default;
+$muted-text-color: #F5F1EE !default;
+$border-color: #91A4AE !default;
+$form-background-color: #0E3434 !default;
+$footer-background-color: #0E3434 !default;
+$masthead-background-color: #0E3434 !default;
 
 $primary-color: #FCAC61 !default;
 $success-color: #022D21 !default;
 $warning-color: #FCAC61 !default;
 $danger-color: #621c30 !default;
-$info-color: #FCAC61 !default;
+$info-color: #0E3434 !default;
 $focus-color: $primary-color !default;
-$active-color: mix(#FFFCF8, $primary-color, 80%) !default;
+$active-color: mix(#F4F1ED, $primary-color, 80%) !default;
 
 /* YIQ color contrast */
 $yiq-contrasted-dark-default: $dark-gray !default;
@@ -153,13 +153,13 @@ $whatsapp-color: #25d366 !default;
 $xing-color: #006567 !default;
 $youtube-color: #bb0000 !default;
 
-$black-color: #110F0F;
+$black-color: #191516;
 
 /* links */
 $link-color: $info-color !default;
-$link-color-hover: mix(#000, $link-color, 25%) !default;
-$link-color-visited: mix(#fff, $link-color, 15%) !default;
-$masthead-link-color: #FFFCF8 !default;
+$link-color-hover: $primary-color !default;
+$link-color-visited: mix(#F4F1ED, $link-color, 15%) !default;
+$masthead-link-color: $muted-text-color !default;
 $masthead-link-color-hover: $masthead-link-color !default;
 $navicon-link-color-hover: $link-color !default;
 
